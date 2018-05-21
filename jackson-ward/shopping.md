@@ -10,3 +10,4 @@ title: "Jackson Ward Shopping"
 <div id="suggestion"></div>
 
 <script type="text/javascript" src="shopping.js"></script>
+<script type="text/javascript" src="../suggestion.js"></script>
