@@ -6,13 +6,15 @@ var data = [
     "name": "Rider Boot Shop",
     "neighborhood": "Jackson Ward",
     "address": "18 W Broad St",
-    "note": "Shoe Store"
+    "note": "Shoe Store",
+    "sponsored": true
   },
   {
     "name": "Rosewood Clothing Co.",
     "neighborhood": "Jackson Ward",
     "address": "16 W Broad St",
-    "note": "Women's Clothing Store"
+    "note": "Women's Clothing Store",
+    "sponsored": true
   },
   {
     "name": "Barky's",
